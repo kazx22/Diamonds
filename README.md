@@ -52,5 +52,10 @@ pip install pandas matplotlib statsmodels scipy jupyter
 jupyter notebook
 
 
-If you want, I can also tailor the README to explicitly list the *exact* tests you ran (e.g., t-test/ANOVA/chi-square) and the final regression variables—but I’d need you to tell me which ones you want highlighted (or I can infer them by reading more of the notebook).
-::contentReference[oaicite:1]{index=1}
+## Author
+
+**Kazi Alif**
+
+- GitHub: https://github.com/kazx22
+- MSc Computer Science (Distinction) — University of South Wales
+- Research Interests: Machine Learning, Data Science, Graph Learning, AI for Healthcare
