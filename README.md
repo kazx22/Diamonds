@@ -15,7 +15,32 @@ This repository contains an exploratory data analysis (EDA) and statistical mode
   - Hypothesis testing (comparing groups / categorical effects on price)
   - Correlation analysis (e.g., price vs carat)
   - **Linear regression (OLS)** using `statsmodels` to model diamond price
+## Project Overview
 
+The dataset contains different physical and quality-related attributes of diamonds, such as:
+
+- Carat (weight)
+- Cut
+- Color
+- Clarity
+- Dimensions (x, y, z)
+- Depth and Table measurements
+
+The objective of this project was to analyse how these characteristics influence **diamond price variation**.
+
+The analysis focuses primarily on **statistical methods** to understand which factors contribute most significantly to price changes. Special attention was given to diamond dimensions and structural attributes to evaluate their relationship with market value.
+
+## Methodology
+
+The project follows a statistical analysis workflow:
+
+1. Data cleaning and preprocessing
+2. Exploratory Data Analysis (EDA)
+3. Correlation analysis between price and diamond attributes
+4. Hypothesis testing to evaluate factor significance
+5. Ordinary Least Squares (OLS) regression modelling using `statsmodels`
+
+The goal was to identify statistically meaningful relationships between diamond properties and pricing behaviour rather than building a complex machine learning prediction system.
 ## Repository structure
 
 - `Assesment.ipynb` — main notebook with all code, plots, and explanations
